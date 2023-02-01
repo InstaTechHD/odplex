@@ -28,7 +28,7 @@ https://comingsoon.com
 
 [MIT](https://github.com/instatechhd/odplex/blob/main/LICENSE)
 
-![Logo](https://iwebp.extraimage.xyz/webp/auto/90/CJEW4LsOK5MjRukb_p_ok3T3ag77TJaDA1pcToko9C5BHdq9VKD0UBcqWUA7De_s_po7bUzs.webp)
+![Logo](https://raw.githubusercontent.com/InstaTechHD/odplex/main/resources/D%20moviesand%20tv%20show.png)
 
 
 ## 🔗 Links
